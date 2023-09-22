@@ -1,1 +1,3 @@
 # AMS595-Project1
+
+I completed three tasks for my project. The first one is BaseConverter, where I convert a number in one base to another base. The second one is a function that takes inputs of a matrix and a vector to perform Gaussian elimination; the output is the x-values. For my third task, I created a function that takes in n number of points to approximate π using the Monte-Carlo algorithm. It returns the approximate value of π, the absolute error, and the relative error. I then constructed three plots: one that compares execution time of function to various values of n, one that compares the absolute errors to various values of n, and one that displays random points as they are generated on a grid to see whether or not they are inside or outside of the circle.
